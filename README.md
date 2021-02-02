@@ -1,2 +1,2 @@
-# dota2
+# AmirKup.github.io
 News
