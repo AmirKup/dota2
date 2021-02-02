@@ -1,0 +1,56 @@
+body {
+		background: #D3D3D3; /* Цвет фона */
+		color: #fc0; /* Цвет текста */
+		width: 800px;
+		max-width: 90%;
+		margin: auto;
+	 }
+
+
+
+.wapka {
+text-align:  center;
+background: #000000; /* Цвет фона под заголовком */
+color: red; /* Цвет текста */
+padding: 25px; /* Поля вокруг текста */
+max-width: 100%;
+border: none;
+margin-left: -10px;
+margin-right: -10px;
+margin-top: -10px;
+padding-bottom: 10px;
+border-radius: 20px;
+border: 3px solid red; /* Белая рамка */
+}
+
+.news {
+text-align:  left;
+background: #000000; /* Цвет фона под заголовком */
+color: black; /* Цвет текста */
+padding: 100px; /* Поля вокруг текста */
+max-width: 100%;
+font-size: 120%;
+border: none;
+margin-left: -10px;
+margin-right: -10px;
+margin-top: 0px;
+border-radius: 30px;
+padding-bottom: 900px;
+border: 3px solid red; /* Белая рамка */
+
+}
+
+
+.img{
+	margin-top: -990px;
+	margin-left: 20px;
+	border-radius: 100px;
+	position: relative; /* Относительное позиционирование */
+	float: left; /* Выравнивание по левому краю с обтеканием */
+
+  top: 0; left: 0;
+
+}
+.break-word {
+		word-wrap: break-word;
+}
